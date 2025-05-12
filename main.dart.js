@@ -78328,14 +78328,14 @@ $0(){var s=this.a
 return s.a6(new A.ajx(s))},
 $S:0}
 A.ajx.prototype={
-$0(){this.a.e=B.tf},
+$0(){this.a.e=B.Mj},
 $S:0}
 A.ajz.prototype={
 $0(){var s=this.a
 return s.a6(new A.ajw(s))},
 $S:0}
 A.ajw.prototype={
-$0(){this.a.e=B.Mj},
+$0(){this.a.e=B.tf},
 $S:0}
 A.ajA.prototype={
 $0(){return A.bN([A.aNV(this.a)],t.H)},
@@ -84179,8 +84179,8 @@ B.Mh=new A.rU(0,null)
 B.jd=new A.rV(0,"portrait")
 B.te=new A.rV(1,"landscape")
 B.Mi=new A.zk(null)
-B.tf=new A.Ks(0,"makeReservationsPage")
-B.Mj=new A.Ks(1,"deleteReservationsPage")
+B.Mj=new A.Ks(0,"makeReservationsPage")
+B.tf=new A.Ks(1,"deleteReservationsPage")
 B.bh=new A.Kx(0,"fill")
 B.aB=new A.Kx(1,"stroke")
 B.Mk=new A.mc(1/0)
