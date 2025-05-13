@@ -78059,7 +78059,7 @@ case 1:s=new A.x5(q)
 p=r.f="My reservations"
 break
 default:throw A.f(A.fe("no widget for "+p.k(0)))}p=A.bt(p,q,q,q,q,q,q)
-return A.aa9(A.asQ(A.b([new A.nN(new A.ajp(r),B.ms,q),new A.nN(new A.ajq(r),B.mt,q),new A.nN(new A.ajr(a),B.Gy,q)],t.p),p),A.fu(s,B.w,q,new A.aj(0,550,0,1/0),q,q,q,q,q,q))}}
+return A.aa9(A.asQ(A.b([new A.nN(new A.ajp(r),B.ms,q),new A.nN(new A.ajq(r),B.mt,q),new A.nN(new A.ajr(a),B.Gy,q)],t.p),p),A.fu(s,B.w,q,new A.aj(0,575,0,1/0),q,q,q,q,q,q))}}
 A.ajp.prototype={
 $0(){var s=this.a
 return s.a5(new A.ajo(s))},
