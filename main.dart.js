@@ -78903,7 +78903,7 @@ case 1:p=r.r="My reservations"
 s=B.lN
 break
 default:throw A.f(A.eR("no widget for "+p.k(0)))}p=A.bz(p,q,q,q,q,q,q)
-return A.M2(A.atL(A.b([new A.nX(new A.akf(r),B.mx,q),new A.nX(new A.akg(r),B.my,q),new A.nX(new A.akh(r,a),B.GJ,q)],t.p),p),A.fw(s,B.w,q,B.zX,q,q,q,q,q,q))}}
+return A.fw(A.M2(A.atL(A.b([new A.nX(new A.akf(r),B.mx,q),new A.nX(new A.akg(r),B.my,q),new A.nX(new A.akh(r,a),B.GJ,q)],t.p),p),s),B.w,q,B.zX,q,q,q,q,q,q)}}
 A.akf.prototype={
 $0(){var s=this.a
 return s.a1(new A.ake(s))},
